@@ -13,12 +13,12 @@ This project is a comprehensive system for personal finance management built ent
 
 This system is built on a relational database structure and includes the following features:
 
-* [cite_start]**Accounts & Net Worth Tracker:** Track all your financial accounts like bank accounts, credit cards, and loans in one place. [cite: 318] [cite_start]Every account is classified as an asset or liability to automatically update your net worth. [cite: 319]
-* [cite_start]**Income Tracker:** Log every stream of income and track your earnings against monthly targets. [cite: 346, 348]
-* [cite_start]**Expense Tracker:** Log and categorize every expense to see exactly where your money goes. [cite: 365, 366] [cite_start]View expenses by list, calendar, or chart. [cite: 375]
-* [cite_start]**Budgeting:** Assign monthly budgets by category and track your spending against your goals. [cite: 389]
-* [cite_start]**Goal Tracker:** Set clear financial goals, from an emergency fund to a big milestone, and track your progress automatically. [cite: 503, 505]
-* [cite_start]**Financial Snapshot:** Get a clear, automated summary of your financial health, including monthly/yearly balance and a real-time net worth calculation. [cite: 446, 450]
+* **Accounts & Net Worth Tracker:** Track all your financial accounts like bank accounts, credit cards, and loans in one place. Every account is classified as an asset or liability to automatically update your net worth.
+* **Income Tracker:** Log every stream of income and track your earnings against monthly targets.
+* **Expense Tracker:** Log and categorize every expense to see exactly where your money goes. View expenses by list, calendar, or chart.
+* **Budgeting:** Assign monthly budgets by category and track your spending against your goals.
+* **Goal Tracker:** Set clear financial goals, from an emergency fund to a big milestone, and track your progress automatically.
+* **Financial Snapshot:** Get a clear, automated summary of your financial health, including monthly/yearly balance and a real-time net worth calculation.
 
 ## Get The Template
 
@@ -27,9 +27,6 @@ You can add this system to your own Notion workspace with one click.
 1. [Click here to duplicate the Notion Template](https://sore-index-9ec.notion.site/Money-Mastery-Dashboard-265b951579d08055b3f7f8a6299edbc6?source=copy_link)
 2.  Click the `Duplicate` button in the top-right corner of the Notion page.
 
-## Screenshots
-
-[INSERT MORE SCREENSHOTS OF DIFFERENT SECTIONS HERE, LIKE THE ACCOUNTS PAGE, TRANSACTIONS PAGE, ETC.]
 
 ## License
 
