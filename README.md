@@ -24,7 +24,7 @@ This system is built on a relational database structure and includes the followi
 
 You can add this system to your own Notion workspace with one click.
 
-1.  **[Click here to duplicate the Notion Template]([https://sore-index-9ec.notion.site/Money-Mastery-Dashboard-265b951579d08055b3f7f8a6299edbc6?source=copy_link])**
+1. [Click here to duplicate the Notion Template](https://sore-index-9ec.notion.site/Money-Mastery-Dashboard-265b951579d08055b3f7f8a6299edbc6?source=copy_link)
 2.  Click the `Duplicate` button in the top-right corner of the Notion page.
 
 ## Screenshots
