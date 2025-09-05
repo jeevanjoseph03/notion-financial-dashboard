@@ -7,7 +7,7 @@ An all-in-one financial dashboard built in Notion to track income, expenses, goa
 
 ## About The Project
 
-This project is a comprehensive system for personal finance management built entirely in Notion. I created it to have a flexible, all-in-one solution that goes beyond simple tracking to include goal setting, net worth calculation, and intentional spending habits. [cite_start]The dashboard provides a clear, real-time picture of your financial health. [cite: 446]
+This project is a comprehensive system for personal finance management built entirely in Notion. I created it to have a flexible, all-in-one solution that goes beyond simple tracking to include goal setting, net worth calculation, and intentional spending habits. The dashboard provides a clear, real-time picture of your financial health.
 
 ## Features
 
