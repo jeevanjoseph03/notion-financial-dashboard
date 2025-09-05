@@ -2,7 +2,8 @@
 
 An all-in-one financial dashboard built in Notion to track income, expenses, goals, and net worth.
 
-![[INSERT A SCREENSHOT OR GIF OF YOUR DASHBOARD HERE]]
+<img width="752" height="138" alt="Screenshot 2025-09-06 013456" src="https://github.com/user-attachments/assets/09c79d87-d7da-41ec-b9a6-c6d3c2f4d17b" />
+
 
 ## About The Project
 
@@ -23,7 +24,7 @@ This system is built on a relational database structure and includes the followi
 
 You can add this system to your own Notion workspace with one click.
 
-1.  **[Click here to duplicate the Notion Template]([PASTE YOUR NOTION LINK HERE])**
+1.  **[Click here to duplicate the Notion Template]([https://sore-index-9ec.notion.site/Money-Mastery-Dashboard-265b951579d08055b3f7f8a6299edbc6?source=copy_link])**
 2.  Click the `Duplicate` button in the top-right corner of the Notion page.
 
 ## Screenshots
